@@ -6,7 +6,7 @@
     "start": "ng serve",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
-    "build-github": "ng build --base-href /tamisuhiko/ --deploy-url /angular12/ --configuration production",
+    "build-github": "ng build --base-href /tamisuhiko/ --deploy-url /tamisuhiko/ --configuration production",
     "test": "ng test"
   },
   "private": true,
